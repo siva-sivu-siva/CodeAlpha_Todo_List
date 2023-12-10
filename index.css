@@ -2,7 +2,7 @@
 
 .todos-bg-container {
     height: 150vh;
-    background-image: linear-gradient(to right,#d2d2d2,pink);
+    background-image: linear-gradient(to bottom,#fffacd,#696969);
 }
 
 .todos-heading {
